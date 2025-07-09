@@ -1,0 +1,42 @@
+{
+  "title": "Мобильная разработка",
+  "description": "iOS, Android и кроссплатформенные решения",
+  "levels": [
+    {
+      "title": "Основы",
+      "skills": [
+        {"name": "Java", "progress": 100},
+        {"name": "Kotlin", "progress": 90},
+        {"name": "Swift", "progress": 85},
+        {"name": "Основы UI/UX", "progress": 80}
+      ]
+    },
+    {
+      "title": "Платформы",
+      "skills": [
+        {"name": "Android SDK", "progress": 75},
+        {"name": "iOS SDK", "progress": 70},
+        {"name": "React Native", "progress": 65},
+        {"name": "Flutter", "progress": 60}
+      ]
+    },
+    {
+      "title": "Продвинутые темы",
+      "skills": [
+        {"name": "Оффлайн-работы", "progress": 50},
+        {"name": "Push-уведомления", "progress": 45},
+        {"name": "Тестирование", "progress": 60},
+        {"name": "Публикация приложений", "progress": 55}
+      ]
+    },
+    {
+      "title": "Архитектура",
+      "skills": [
+        {"name": "MVVM", "progress": 70},
+        {"name": "Clean Architecture", "progress": 60},
+        {"name": "BLoC", "progress": 50},
+        {"name": "Redux", "progress": 45}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+.env
+
+docker-compose.override.yml
+
+.idea/
+.vscode/
+*.iml
+
+*.log

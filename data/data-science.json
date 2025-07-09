@@ -1,0 +1,122 @@
+{
+  "title": "Data Science",
+  "description": "Анализ данных, машинное обучение и искусственный интеллект",
+  "levels": [
+    {
+      "title": "Основы",
+      "skills": [
+        {
+          "name": "Python",
+          "progress": 100,
+          "resources": [
+            {"name": "Real Python", "url": "https://realpython.com/"},
+            {"name": "Python Data Science Handbook", "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"}
+          ]
+        },
+        {
+          "name": "Математика для Data Science",
+          "progress": 90,
+          "resources": [
+            {"name": "Khan Academy", "url": "https://www.khanacademy.org/math"},
+            {"name": "3Blue1Brown", "url": "https://www.3blue1brown.com/"}
+          ]
+        },
+        {
+          "name": "Статистика",
+          "progress": 85,
+          "resources": [
+            {"name": "Stat Trek", "url": "https://stattrek.com/"},
+            {"name": "Intro to Statistical Learning", "url": "https://www.statlearning.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Анализ данных",
+      "skills": [
+        {
+          "name": "Pandas",
+          "progress": 80,
+          "resources": [
+            {"name": "Pandas Documentation", "url": "https://pandas.pydata.org/docs/"},
+            {"name": "10 Minutes to Pandas", "url": "https://pandas.pydata.org/docs/user_guide/10min.html"}
+          ]
+        },
+        {
+          "name": "NumPy",
+          "progress": 75,
+          "resources": [
+            {"name": "NumPy User Guide", "url": "https://numpy.org/doc/stable/user/index.html"},
+            {"name": "NumPy Tutorial", "url": "https://numpy.org/numpy-tutorials/"}
+          ]
+        },
+        {
+          "name": "Визуализация данных",
+          "progress": 70,
+          "resources": [
+            {"name": "Matplotlib Tutorials", "url": "https://matplotlib.org/stable/tutorials/index.html"},
+            {"name": "Seaborn Examples", "url": "https://seaborn.pydata.org/examples/index.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Машинное обучение",
+      "skills": [
+        {
+          "name": "Scikit-learn",
+          "progress": 65,
+          "resources": [
+            {"name": "Scikit-learn User Guide", "url": "https://scikit-learn.org/stable/user_guide.html"},
+            {"name": "Hands-On ML", "url": "https://github.com/ageron/handson-ml2"}
+          ]
+        },
+        {
+          "name": "TensorFlow",
+          "progress": 60,
+          "resources": [
+            {"name": "TensorFlow Tutorials", "url": "https://www.tensorflow.org/tutorials"},
+            {"name": "TensorFlow Certification", "url": "https://www.tensorflow.org/certificate"}
+          ]
+        },
+        {
+          "name": "Нейронные сети",
+          "progress": 55,
+          "resources": [
+            {"name": "Neural Networks and Deep Learning", "url": "http://neuralnetworksanddeeplearning.com/"},
+            {"name": "DeepLearning.AI", "url": "https://www.deeplearning.ai/"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Продвинутые темы",
+      "skills": [
+        {
+          "name": "Обработка естественного языка",
+          "progress": 50,
+          "resources": [
+            {"name": "NLTK Book", "url": "https://www.nltk.org/book/"},
+            {"name": "Hugging Face", "url": "https://huggingface.co/learn/nlp-course"}
+          ]
+        },
+        {
+          "name": "Компьютерное зрение",
+          "progress": 45,
+          "resources": [
+            {"name": "OpenCV Tutorials", "url": "https://docs.opencv.org/master/d9/df8/tutorial_root.html"},
+            {"name": "PyImageSearch", "url": "https://pyimagesearch.com/"}
+          ]
+        },
+        {
+          "name": "Big Data",
+          "progress": 40,
+          "resources": [
+            {"name": "Apache Spark Documentation", "url": "https://spark.apache.org/docs/latest/"},
+            {"name": "Databricks Learning", "url": "https://www.databricks.com/learn"}
+          ]
+        }
+      ]
+    }
+  ]
+}

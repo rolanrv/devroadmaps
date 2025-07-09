@@ -1,0 +1,122 @@
+{
+  "title": "Веб-разработка",
+  "description": "Полный путь от основ до продвинутых технологий",
+  "levels": [
+    {
+      "title": "Основы",
+      "skills": [
+        {
+          "name": "HTML5",
+          "progress": 100,
+          "resources": [
+            {"name": "MDN Web Docs", "url": "https://developer.mozilla.org/ru/docs/Web/HTML"},
+            {"name": "HTML Academy", "url": "https://htmlacademy.ru"}
+          ]
+        },
+        {
+          "name": "CSS3",
+          "progress": 100,
+          "resources": [
+            {"name": "CSS Tricks", "url": "https://css-tricks.com"},
+            {"name": "Flexbox Froggy", "url": "https://flexboxfroggy.com"}
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "progress": 100,
+          "resources": [
+            {"name": "JavaScript.info", "url": "https://javascript.info"},
+            {"name": "FreeCodeCamp", "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "React",
+          "progress": 75,
+          "resources": [
+            {"name": "Официальная документация", "url": "https://reactjs.org/docs/getting-started.html"},
+            {"name": "React Tutorial", "url": "https://react-tutorial.app"}
+          ]
+        },
+        {
+          "name": "Vue.js",
+          "progress": 60,
+          "resources": [
+            {"name": "Vue.js Guide", "url": "https://vuejs.org/guide/introduction.html"},
+            {"name": "Vue Mastery", "url": "https://www.vuemastery.com"}
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "progress": 70,
+          "resources": [
+            {"name": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/intro.html"},
+            {"name": "TypeScript Course", "url": "https://www.typescriptcourse.com"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "skills": [
+        {
+          "name": "Node.js",
+          "progress": 65,
+          "resources": [
+            {"name": "Node.js Documentation", "url": "https://nodejs.org/en/docs/"},
+            {"name": "The Node.js Master Class", "url": "https://www.udemy.com/course/nodejs-master-class/"}
+          ]
+        },
+        {
+          "name": "Express",
+          "progress": 60,
+          "resources": [
+            {"name": "Express.js Guide", "url": "https://expressjs.com/"},
+            {"name": "Express.js Tutorial", "url": "https://www.tutorialspoint.com/expressjs/index.htm"}
+          ]
+        },
+        {
+          "name": "Базы данных",
+          "progress": 70,
+          "resources": [
+            {"name": "SQL vs NoSQL", "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"},
+            {"name": "PostgreSQL Tutorial", "url": "https://www.postgresqltutorial.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DevOps & Продвинутые темы",
+      "skills": [
+        {
+          "name": "Docker",
+          "progress": 50,
+          "resources": [
+            {"name": "Docker Documentation", "url": "https://docs.docker.com/"},
+            {"name": "Docker Mastery", "url": "https://www.udemy.com/course/docker-mastery/"}
+          ]
+        },
+        {
+          "name": "Web Security",
+          "progress": 55,
+          "resources": [
+            {"name": "OWASP Top 10", "url": "https://owasp.org/www-project-top-ten/"},
+            {"name": "Web Security Academy", "url": "https://portswigger.net/web-security"}
+          ]
+        },
+        {
+          "name": "Оптимизация производительности",
+          "progress": 60,
+          "resources": [
+            {"name": "Web Performance", "url": "https://web.dev/learn/#performance"},
+            {"name": "Lighthouse", "url": "https://developers.google.com/web/tools/lighthouse"}
+          ]
+        }
+      ]
+    }
+  ]
+}

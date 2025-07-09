@@ -1,0 +1,42 @@
+{
+  "title": "Разработка игр",
+  "description": "GameDev, движки и геймдизайн",
+  "levels": [
+    {
+      "title": "Основы",
+      "skills": [
+        {"name": "Основы геймдизайна", "progress": 100},
+        {"name": "Программирование (C#/C++)", "progress": 90},
+        {"name": "Математика для игр", "progress": 80},
+        {"name": "2D графика", "progress": 85}
+      ]
+    },
+    {
+      "title": "Движки",
+      "skills": [
+        {"name": "Unity", "progress": 75},
+        {"name": "Unreal Engine", "progress": 70},
+        {"name": "Godot", "progress": 65},
+        {"name": "Phaser", "progress": 60}
+      ]
+    },
+    {
+      "title": "Продвинутые темы",
+      "skills": [
+        {"name": "3D моделирование", "progress": 50},
+        {"name": "Анимация", "progress": 55},
+        {"name": "Физика", "progress": 60},
+        {"name": "ИИ в играх", "progress": 45}
+      ]
+    },
+    {
+      "title": "Публикация",
+      "skills": [
+        {"name": "Оптимизация", "progress": 70},
+        {"name": "Монетизация", "progress": 65},
+        {"name": "Тестирование", "progress": 75},
+        {"name": "Публикация", "progress": 60}
+      ]
+    }
+  ]
+}
