@@ -20,22 +20,35 @@
 
 ```bash
 docker run -d -p 8080:80 --name devroadmaps rolanrv/devroadmaps
+```
 
 Откройте в браузере: http://localhost:8080
 
+### Способ 2: Через start.sh
 
+В терминале зайти в папку проекта, ввести:
+```bash
+chmod +x start.sh
+./start.sh
+```
+Откройте в браузере: http://localhost:8080				   
 
-### Способ 2: Сборка из исходников
+### Способ 3: Сборка из исходников
 
-Клонируйте репозиторий: git clone https://github.com/rolanrv/DevRoadmaps.git
-			cd DevRoadmaps
-Запустите проект: 	docker-compose up --build
-
+Клонируйте репозиторий и запустите проект:
+```bash
+git clone https://github.com/rolanrv/DevRoadmaps.git
+cd DevRoadmaps
+docker-compose up --build
+```
 Откройте в браузере: http://localhost:8080
 
 ### ОСТАНОВКА ###
 Для контейнера, запущенного через Docker run:
+```bash
 docker stop devroadmaps
-
+```
 Для контейнера, запущенного через Docker Compose:
+```bash
 docker-compose down
+```
