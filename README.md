@@ -24,11 +24,8 @@ docker run -d -p 8080:80 --name devroadmaps rolanrv/devroadmaps
 Откройте в браузере: http://localhost:8080
 
 
-### Способ 2: Запуск одной командой
 
-curl -sSL https://raw.githubusercontent.com/rolanrv/DevRoadmaps/main/start.sh | bash
-
-### Способ 3: Сборка из исходников
+### Способ 2: Сборка из исходников
 
 Клонируйте репозиторий: git clone https://github.com/rolanrv/DevRoadmaps.git
 			cd DevRoadmaps
